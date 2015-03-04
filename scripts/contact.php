@@ -1,7 +1,7 @@
 <?php
 // Change the 4 variables below
 $yourName = 'BW Geotextile Web Form';
-$yourEmail = 'bhibe1@gmail.com';
+$yourEmail = 'bwgeotextile@gmail.com';
 $yourSubject = 'New Web Lead';
 $referringPage = '../';
 // No need to edit below unless you really want to. It's using a simple php mail() function. Use your own if you want
