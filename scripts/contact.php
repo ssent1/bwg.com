@@ -1,6 +1,6 @@
 <?php
 // Change the 4 variables below
-$yourName = 'BW Geotextile Web Form';
+$yourName = 'BW Geotextiles Web Form';
 $yourEmail = 'bwgeotextiles@gmail.com';
 $yourSubject = 'New Web Lead';
 $referringPage = '../';
