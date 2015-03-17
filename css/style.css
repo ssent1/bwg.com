@@ -1219,7 +1219,7 @@ ul.list-bottom li a:hover{
 ------------------------------------------------------*/
 .table {
 	margin:0px;padding:0px;
-	width:40%;
+	width:60%;
 	box-shadow: 10px 10px 5px #888888;
 	border:1px solid #3f7f00;
 	
@@ -1276,7 +1276,7 @@ ul.list-bottom li a:hover{
 	border-width:0px 1px 1px 0px;
 	text-align:left;
 	padding:7px;
-	font-size:10px;
+	font-size:16px;
 	font-family:Arial, Helvetica, sans-serif;
 	font-weight:normal;
 	color:#000000;
@@ -1296,8 +1296,8 @@ ul.list-bottom li a:hover{
 	border:0px solid #3f7f00;
 	text-align:left;
 	border-width:0px 0px 1px 1px;
-	font-size:14px;
-	font-family:Arial;
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;
 	font-weight:bold;
 	color:#ffffff;
 }
