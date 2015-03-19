@@ -1,7 +1,7 @@
 <?php
 // change the 4 variables below
 $yourName = 'BW Geotextiles Web Form';
-$yourEmail = 'bwgeotextiles@gmail.com';
+$yourEmail = 'sales@bwgeotextiles.com';
 $yourSubject = 'New Web Lead';
 $referringPage = '../';
 // no need to change the rest unless you want to. You could add more error checking but I'm gonna do that later in the official release
