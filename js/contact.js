@@ -21,13 +21,13 @@ var posText = document.getElementById('posText');
 var strCC = document.getElementById('selfCC');
 var whiteSpace = /^[\s]+$/;
 	if ( posText.value == '' || whiteSpace.test(posText.value) ) {
-		alert("Please fill field.");
+		alert("Please fill in all fields.");
 	}
 	else if (posEmail.value.length<1){
-	alert("Please enter e-mail address.");
+	alert("Please enter your email address.");
 	}
 	else if (isEmailAddr(posEmail.value)==false){
-	alert("Please enter valid e-mail address");
+	alert("Please enter a valid email address");
 	}
 	else if ( posEmail.value == '' && strCC.checked == true ) {
 		alert("Why are you trying to CC yourself without an email?");

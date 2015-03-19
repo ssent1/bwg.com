@@ -29,7 +29,7 @@ function processPosChange() {
         // page is "OK"
         if (pos.status == 200) {
 			if ( grabPosXML("posStatus") == 'NOTOK' ) { 
-				alert('There were problems Sending Email. Please check back in a couple minutes');
+				alert('There were problems sending email. Please check back in a couple minutes.');
 			}
 		}
 	}

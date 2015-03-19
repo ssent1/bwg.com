@@ -27,9 +27,9 @@ return stripslashes($nStr);
 	$mailit = mail($to,$subject,$message,$headers);
 
 		if ( @$mailit )
-		{ $posStatus = 'OK'; $posConfirmation = 'Success! Your Email has been sent. We look forward to serving you.'; }
+		{ $posStatus = 'OK'; $posConfirmation = 'Success! Your Email has been sent. We look forward to helping you.'; }
 		else
-		{ $posStatus = 'NOTOK'; $posConfirmation = 'Thanks for sending your message. We look forward to serving you.'; }
+		{ $posStatus = 'NOTOK'; $posConfirmation = 'Thanks for sending your message. We look forward to helping you.'; }
 
 		if ( $_POST['selfCC'] == 'send' )
 		{

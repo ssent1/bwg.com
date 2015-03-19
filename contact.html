@@ -199,18 +199,19 @@
 						</h4>
 						<form action="scripts/contact.php" method="post" id="cForm">
 							<fieldset>
-								<label for="posName">Name</label><br />
+								<label for="posName"><sup>*</sup>Name</label><br />
 								<input class="input" type="text" size="25" name="posName" id="posName" /><br />
 								<br />
-								<label for="posEmail">Email</label><br />
+								<label for="posEmail"><sup>*</sup>Email</label><br />
 								<input class="input" type="text" size="25" name="posEmail" id="posEmail" /><br />
 								<br />
-								<label for="posRegard">Subject</label><br />
+								<label for="posRegard"><sup>*</sup>Subject</label><br />
 								<input class="input" type="text" size="25" name="posRegard" id="posRegard" /><br />
 								<br />
-								<label for="posText">Message</label><br />
+								<label for="posText"><sup>*</sup>Message</label><br />
 								<textarea cols="50" rows="8" name="posText" id="posText" class="textarea">
 </textarea><br />
+								<sup>*</sup>required
 								<br />
 								<label for="selfCC"><!--<input type="checkbox" name="selfCC" id="selfCC" value="send" /> Send CC to self-->
 								 <input type="hidden" name="selfCC" id="selfCC" value="xxx" /></label> <input class="input-submit" type="submit" name="sendContactEmail" id="sendContactEmail" value="" />

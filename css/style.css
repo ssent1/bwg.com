@@ -1031,17 +1031,17 @@ label{
 	width:406px; 
 	padding:6px 5px; 
 	margin:0px; 
-	color:#939393;
+	color:#949494;
 }
 #loadBar{	
-	color:#797979;
+	color:#787878;
 	position:absolute;
 	margin-left:43px;
 	top:595px;
 	z-index:100;
 }
 #emailSuccess{
-	color:#797979;
+	color:#787878;
 	position:absolute;
 	margin-left:86px;
 	top:595px;
