@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"shad",
+				"text-shadow\tproperty"
+			],
+			[
+				"a",
+				"amp"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
 				"align",
 				"text-align\tproperty"
 			],
@@ -32,10 +52,6 @@
 				"ffffff"
 			],
 			[
-				"a",
-				"auto\thyphens"
-			],
-			[
 				"se",
 				"sectionOfVarName"
 			],
@@ -51,15 +67,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "work-place/work-place.pretty.html",
-			"settings":
-			{
-				"buffer_size": 19395,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -72,6 +79,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
 			[
 				"diff",
 				"FileDiffs: Menu"
@@ -196,14 +223,54 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/assets",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/assets/fonts",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/css"
+	],
 	"file_history":
 	[
-		"/Users/syd/Desktop/contact-github-version.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/css/style.css",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/work-place.pretty.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/robots.txt",
+		"/Users/syd/Downloads/Vegur Regular/@font-face/Demo.html",
+		"/Users/syd/Downloads/Vegur Bold/@font-face/Demo.html",
+		"/Users/syd/Downloads/Vegur Regular/read me - Vegur Regular.html",
+		"/Users/syd/Downloads/Vegur Regular/read me - Vegur Bold.html",
+		"/Users/syd/Downloads/Vegur Regular/read me - Vegur Light.html",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/syd/Downloads/Vegur Light/@font-face/Demo.html",
+		"/Users/syd/Downloads/OnlineWebFonts_COM_d92c4bbb59f7cfcc1a15e93da7ff9c1b/@font-face/Demo.html",
+		"/Users/syd/Downloads/OnlineWebFonts_COM_6f3ae79c2386bfe15ae8ad8c7abcbf0f/@font-face/Demo.html",
+		"/Users/syd/Downloads/vegur-2-cufonfonts-webfont/style.css",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/404-error.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/about.html",
 		"/Users/syd/Sites/bwgeotextile.com/bwg.com/contact.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/geogrids.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/index.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/more-geosynthetic-products.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/nonwoven-geotextile-fabric.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/woven-geotextile-fabric.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/products.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/services.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/silt-fence.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/stakes.html",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/work-place.html",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/syd/Sites/bwgeotextile.com/bwg.com/work-place/work-place.pretty.html",
+		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/bbq.jpg",
+		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/bbq2.png",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/syd/Desktop/contact-github-version.html",
 		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
 		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/README.txt",
 		"/Users/syd/Sites/bwgeotextile.com/bwg.com/README.txt",
-		"/Users/syd/Sites/bwgeotextile.com/bwg.com/about.html",
 		"/Users/syd/unsaved/2019/2019-10/Getting Started with Git and Github the Complete Beginners Guide.md",
 		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/.htaccess",
 		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/.DS_Store",
@@ -292,50 +359,18 @@
 		"/Users/syd/Library/Application Support/Notational Data/Watching-- Netflix.txt",
 		"/Users/syd/Library/Application Support/Notational Data/Watching-- Videos.txt",
 		"/Users/syd/Library/Application Support/Notational Data/WordPress-- Development Tools.txt",
-		"/Users/syd/Library/Application Support/Notational Data/WordPress-- Index.txt",
-		"/Users/syd/Library/Application Support/Notational Data/WordPress-- Testing.txt",
-		"/Users/syd/Library/Application Support/nvALT/syd's custom.css",
-		"/Users/syd/Sites/simpsonfinancial.ca/contact.html",
-		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/services.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/dev/about.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/index.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/services.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/404-error.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/images/index.html",
-		"/Users/syd/Sites/simpsonfinancial.ca/css/style.css",
-		"/Users/syd/Sites/simpsonfinancial.ca/images/price-slide.png",
-		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/hosting.url",
-		"/Users/syd/Library/Application Support/nvALT/custom-Marked.app.css",
-		"/Users/syd/Library/Application Support/Notational Data/is sharing your feelings always healthy a6be3579c4ae.txt",
-		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
-		"/Users/syd/Desktop/nvALT.webloc",
-		"/Users/syd/Desktop/Steps to Record Skype Calls.txt",
-		"/Users/syd/Desktop/YouTube.webloc",
-		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/default_syntax.py",
-		"/Users/syd/Desktop/The Starr Report - internal links.txt",
-		"/usr/local/Cellar/clip2imgur/0.9.0/.brew/clip2imgur.rb",
-		"/Users/syd/Desktop/64bit.txt",
-		"/Users/syd/Desktop/non64bit.txt",
-		"/Users/syd/Creative Cloud Files/objects → icons & logos/pdf.png",
-		"/Users/syd/Desktop/test-audio-plist.plist",
-		"/Users/syd/Desktop/fitbit_export_20190115 (1).csv",
-		"/Users/syd/Desktop/fitbit_export_20190115.csv",
-		"/Volumes/Behringer-Xenyx-Control1USB/BehringerUSBAudio.kext/Contents/Info.plist",
-		"/Users/syd/Desktop/Toggle Output Device.alfredworkflow",
-		"/Users/syd/Desktop/test2.html",
-		"/Users/syd/Library/Application Support/nvALT/template.html",
-		"/usr/local/lib/node_modules/mediumexporter/node_modules/form-data/lib/form_data.js",
-		"/usr/local/lib/node_modules/mediumexporter/index.js"
+		"/Users/syd/Library/Application Support/Notational Data/WordPress-- Index.txt"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
 		"height": 166.0,
 		"where_history":
 		[
+			"/Users/syd/Sites/bwgeotextile.com/bwg.com"
 		]
 	},
 	"find_state":
@@ -343,6 +378,61 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"src=\"",
+			"NON‐Woven geotExtile",
+			"src=\"",
+			"Non-woven Geotextile",
+			"(pdf\">)(</a>)(\\d+\\w+.*)(</td>)",
+			"(^ +<li.*\\n)|(^ +</li.*\\n)",
+			"(^ +<ul.*\\n)|(^ +</ul.*\\n)",
+			"\\d+\\w+ Non‐woven Geotextile",
+			" +$",
+			"FenceGeotextile Fabric: Drainage",
+			"erosion contro",
+			"td",
+			"16",
+			"pf",
+			"pf-list",
+			"red",
+			"check",
+			"img",
+			"24",
+			"Silt Fence",
+			"h6",
+			"more-button",
+			"table",
+			"font-fam",
+			"font",
+			"•",
+			"font",
+			"<table>",
+			"•",
+			"pf",
+			"margin",
+			"clear",
+			"content_block",
+			"(<a .*)(<img )",
+			"<li>|</li>",
+			"    /* IE9 */",
+			"Bold",
+			"Chrome",
+			"chrome",
+			"、",
+			"chrome",
+			"(\\w+), ?",
+			"、",
+			"50dd3bda2fa82888caabf5f705ae12cc",
+			"f7980b27c628d7d2705d3b85fe9331a3",
+			"8f849c1ab66d5943e8066fc04ced22bb",
+			"50dd3bda2fa82888caabf5f705ae12cc",
+			"f7980b27c628d7d2705d3b85fe9331a3",
+			"8f849c1ab66d5943e8066fc04ced22bb",
+			"TDS",
+			"tds",
+			"Guelph \\| BW Geotextile",
+			"ctrl\\+alt\\+v",
+			"(^\\s+)(<div class=\"pf-box-view\">\\n\\s+.*\\n\\s+</div>)",
+			"(<li>.*)\\n\\s+(</li>)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -350,6 +440,23 @@
 		"regex": true,
 		"replace_history":
 		[
+			"Non-woven Geotextile",
+			"$1$3$2$4",
+			"",
+			"&bull;",
+			"$1",
+			"",
+			"light",
+			"Chrome",
+			",",
+			"$1, ",
+			",",
+			"vegur-regular",
+			"vegur-bold",
+			"vegur-light",
+			"Guelph &mdash; BW Geotextile",
+			"$1<!-- $2 -->",
+			"$1$2"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -360,134 +467,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "work-place/work-place.pretty.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19395,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.223.region_keys":
-							[
-								"sublime_linter.protected_regions",
-								"SL.htmltidy.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
-								"SL.htmltidy.Highlights.|55c884babaadf5053ba77dcc55c124517fc48f2401030034d095d10ff5af8382|region.yellowish markup.warning.sublime_linter|32"
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										108,
-										109
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -524,7 +505,7 @@
 	"menu_visible": true,
 	"output.SublimeLinter":
 	{
-		"height": 0.0
+		"height": 133.0
 	},
 	"output.find_results":
 	{
@@ -542,7 +523,7 @@
 	"project": "bwg.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 73.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -551,6 +532,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"untitled"
+			]
 		],
 		"width": 0.0
 	},
@@ -584,7 +569,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 299.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

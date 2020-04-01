@@ -1,6 +1,11 @@
 User-agent: *
+Disallow: /assets/
+Disallow: /assets/pdfs/
 Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /dev/
+Disallow: /js/
+Disallow: /scripts/
 Disallow: /tmp/
-Disallow: /work-place/
-Disallow: /work-place/pdfs/
-Disallow: /work-place/work-place.html
+Disallow: work-place.html
+Disallow: work-place.pretty.html
