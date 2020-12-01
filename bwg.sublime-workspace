@@ -429,7 +429,7 @@
 			"8f849c1ab66d5943e8066fc04ced22bb",
 			"TDS",
 			"tds",
-			"Guelph \\| BW Geotextile",
+			"Guelph \\&VerticalLine; BW Geotextile",
 			"ctrl\\+alt\\+v",
 			"(^\\s+)(<div class=\"pf-box-view\">\\n\\s+.*\\n\\s+</div>)",
 			"(<li>.*)\\n\\s+(</li>)"
