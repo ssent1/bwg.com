@@ -1,31 +1,31 @@
 @font-face {
     font-family: "Vegur Light";
-    src: url("assets/fonts/vegur-light.eot");
-    src: url("assets/fonts/vegur-light.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/vegur-light.woff2") format("woff2"),
-        url("assets/fonts/vegur-light.woff") format("woff"),
-        url("assets/fonts/vegur-light.ttf") format("truetype"),
-        url("assets/fonts/vegur-light.svg#Vegur Light") format("svg");
+    src: url("/assets/fonts/vegur-light.eot");
+    src: url("/assets/fonts/vegur-light.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/vegur-light.woff2") format("woff2"),
+        url("/assets/fonts/vegur-light.woff") format("woff"),
+        url("/assets/fonts/vegur-light.ttf") format("truetype"),
+        url("/assets/fonts/vegur-light.svg#Vegur Light") format("svg");
 }
 
 @font-face {
     font-family: "Vegur Regular";
-    src: url("assets/fonts/vegur-regular.eot");
-    src: url("assets/fonts/vegur-regular.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/vegur-regular.woff2") format("woff2"),
-        url("assets/fonts/vegur-regular.woff") format("woff"),
-        url("assets/fonts/vegur-regular.ttf") format("truetype"),
-        url("assets/fonts/vegur-regular.svg#Vegur-Regular") format("svg");
+    src: url("/assets/fonts/vegur-regular.eot");
+    src: url("/assets/fonts/vegur-regular.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/vegur-regular.woff2") format("woff2"),
+        url("/assets/fonts/vegur-regular.woff") format("woff"),
+        url("/assets/fonts/vegur-regular.ttf") format("truetype"),
+        url("/assets/fonts/vegur-regular.svg#Vegur-Regular") format("svg");
 }
 
 @font-face {
     font-family: "Vegur Bold";
-    src: url("assets/fonts/vegur-bold.eot");
-    src: url("assets/fonts/vegur-bold.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/vegur-bold.woff2") format("woff2"),
-        url("assets/fonts/vegur-bold.woff") format("woff"),
-        url("assets/fonts/vegur-bold.ttf") format("truetype"),
-        url("assets/fonts/vegur-bold.svg#Vegur Bold") format("svg");
+    src: url("/assets/fonts/vegur-bold.eot");
+    src: url("/assets/fonts/vegur-bold.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/vegur-bold.woff2") format("woff2"),
+        url("/assets/fonts/vegur-bold.woff") format("woff"),
+        url("/assets/fonts/vegur-bold.ttf") format("truetype"),
+        url("/assets/fonts/vegur-bold.svg#Vegur Bold") format("svg");
 }
 
 html,
@@ -233,7 +233,8 @@ blockquote {
 
 /* code */
 code {
-    font-family: "Courier New", Courier, monospace letter-spacing:1px;
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing:1px;
     margin: 25px 0 25px 0px;
     display: block;
     font-size: 0.9em;
@@ -366,6 +367,8 @@ code {
     border-bottom: 2px solid #ebebeb;
     border-left: 2px solid #ebebeb;
     border-right: 2px solid #ebebeb;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
     -moz-border-radius-bottomleft: 9px;
     -moz-border-radius-bottomright: 9px;
     -webkit-border-bottom-left-radius: 9px;
@@ -685,7 +688,7 @@ ul {
 
 #body_404 {
     font-size: 144px;
-    font-color: red;
+    color: red;
 }
 
 .err_maincontent {
@@ -821,6 +824,7 @@ ul.client-list li.client-last {
     padding: 12px 20px 2px 20px;
     background-color: #ebebeb;
     margin-top: 25px;
+    border-radius: 8px;
     -moz-border-radius: 8px;
     -webkit-border-radius: 8px;
     float: left;
@@ -1237,6 +1241,7 @@ label {
 
 .input {
     background-color: #ffffff;
+    border-radius: 6px;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     behavior: url(border-radius.html);
@@ -1268,6 +1273,7 @@ label {
 
 .textarea {
     background-color: #ffffff;
+    border-radius: 6px;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     behavior: url(border-radius.html);
