@@ -1,5 +1,7 @@
 # bwgeotextiles.com website updates
 
+> 15-Dec-20 DONE!!
+
 ## ® not rendering in `h4` tags
 
 ```html
@@ -15,4 +17,4 @@ tags: webdev
 
 [1]: https://css-tricks.com/snippets/html/cufon-101/ "Cufon 101 | CSS-Tricks"
 
-updated: _20201212_130626_
+updated: _20201215_001322_
