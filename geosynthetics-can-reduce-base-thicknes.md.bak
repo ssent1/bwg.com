@@ -1,0 +1,36 @@
+# Geosynthetics Can Reduce Base Thickness
+
+## Possible Valuees of Thickness: Reduction & Traffic Benefit Ratio
+
+### Base course reduction
+
+• Geotextiles → 20–33%
+• Geogrids    → 30–50%
+• Minimum base thickkness is 6″
+
+```html
+<details>
+  <summary>30% to 50%</summary>
+  <p>Minimum base thickkness is 6″.</p>
+</details>
+<!-- minified -->
+<details><summary>30% to 50%</summary><p>Minimum base thickkness is 6″.</p></details>
+```
+
+### Traffic Benefit Ratio
+
+• Geotextiles       → 1.5–10
+• Geogrids geogrids → 1.5–70
+
+<!--- RESOURCES & SOURCES -->
+
+---
+
+tags: bw geotextiles, geotextiles, geosynthetics
+
+[1]: https://www.ndltap.org/events/conference/downloads/2011_geosynthetics.pdf "Geosynthetics: Can They Reduce Base Thickness?"
+[2]: https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/office-of-concrete-pavement/pavement-foundations/aggregate-base-enhancement-biaxial-geogrids-flexible-pavements-design-guide-a11y.pdf "Aggregate Base Enhancement with Biaxial Geogrids for Flexible Pavements"
+[3]: https://nilex.com/sites/default/files/nilex-alliance-geosynthetics-biaxial-geogrid-brochure.pdf "031313A_algeo_geogrid_BX_brochure"
+[4]: http://terrafixgeo.com/wp-content/uploads/TriAx-Brochure.pdf "TriAx-Brochure.pdf"
+
+updated: _20210318_163215_
